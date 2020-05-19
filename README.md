@@ -3,17 +3,17 @@ A bulk purchase web-app built using the MERN stack
 
 How to run
 
-$ cd path/to/directory
+$  cd path/to/directory
 
 
 
 Install required packages
 
-$ cd frontend
+$  cd frontend
 
-$ npm i
+$  npm i
 
-$ cd ../backend
+$  cd ../backend
 
 npm i
 
@@ -21,13 +21,13 @@ npm i
 
 Run the frontend and backend servers
 
-$ cd frontend
+$  cd frontend
 
-$ npm start
+$  npm start
 
-$ cd ../backend
+$  cd ../backend
 
-$ npm run server
+$  npm run server
 
 
 
