@@ -2,13 +2,13 @@
 
 # A bulk purchase web-app built using the MERN stack
 
-How to run
+# How to run
 
 $  cd path/to/directory
 
 
 
-Install required packages
+# Install required packages
 
 $  cd frontend
 
@@ -20,7 +20,7 @@ npm i
 
 
 
-Run the frontend and backend servers
+# Run the frontend and backend servers
 
 $  cd frontend
 
