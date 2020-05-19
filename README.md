@@ -1,6 +1,6 @@
 # MERN_shoppingapp
-A bulk purchase web-app built using the MERN stack
 
+# A bulk purchase web-app built using the MERN stack
 
 How to run
 
